@@ -1,3 +1,5 @@
+package lesson_1;
+
 import static lesson_1.Lesson1.*;
 
 public class Lesson1_run {
