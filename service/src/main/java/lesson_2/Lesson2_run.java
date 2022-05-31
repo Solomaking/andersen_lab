@@ -1,3 +1,5 @@
+package lesson_2;
+
 import lesson_2.ArrayDynamicCreator;
 import lesson_2.StringPrinter;
 
